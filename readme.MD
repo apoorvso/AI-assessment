@@ -15,6 +15,8 @@ npm install
 
 ```
 
+![alt text](<Screenshot 2025-12-11 at 7.07.02 PM.png>)
+
 Start
 
 ```bash
@@ -38,4 +40,7 @@ Start
 
 ```bash
 cd avantos && npm run dev
+
 ```
+
+![alt text](<Screenshot 2025-12-11 at 7.07.34 PM.png>)
